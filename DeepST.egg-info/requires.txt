@@ -1,0 +1,8 @@
+keras
+theano
+
+[h5py]
+h5py
+
+[visualize]
+pydot-ng
